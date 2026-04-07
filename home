@@ -22,10 +22,15 @@ This is Me
 </p>
         </th>
         <th>
-          <img src="https://emog24.github.io/homepage1/images/paint.jpg" width="300" height="300"
+          <img src="https://emog24.github.io/homepage1/images/bronco_me.jpg" width="300" height="300"
 <p>
 Artist
 </p>
+        </th>
+    </tr>
+    <tr>
+        <th>
+          <img src="https://emog24.github.io/homepage1/images/music_notes.png" width="600" height="300"
         </th>
     </tr>
 </table>
