@@ -1,8 +1,9 @@
 <html>
 <head>
 <style>
-    body{
-      background-color: #9CAF88;
+    body {		
+Background-image: url(‘https://nilsontcarroll.github.io/twine/images/wall.gif’);
+background-repeat: repeat;
       color: white;
       text-align: center;
         }   
@@ -38,9 +39,7 @@ Meet Benny!
           <img src="https://emog24.github.io/homepage1/images/buster.png" width="300" height="300">
         <th>
           <img src="https://emog24.github.io/homepage1/images/skypee.png" width="300" height="300">
-        <th>
-          <img src="https://emog24.github.io/homepage1/images/buster_2.png" width="300" height="300">
-        <th>
-          <img src="https://emog24.github.io/homepage1/images/skypee_2.png" width="300" height="300">
+        </th>
+    </tr>
 </table>
 </html>  
