@@ -14,7 +14,10 @@
 This is Me
   </h1>
 <table>
-  <tr>
-    <th> 
-      <img src="https://emog24.github.io/homepage1/home/images/me.jpg" width="300" height="300">
+    <tr>
+        <th>
+          <img src="https://emog24.github.io/homepage1/images/me.jpg" width="300" height="300"
+        </th>
+    </tr>
+</table>
 </html>
