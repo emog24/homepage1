@@ -5,12 +5,7 @@
       background-color: #9CAF88;
       color: white;
       text-align: center;
-        }
-<style>
-body {		
-Background-image: url(‘https://emog24.github.io/homepage1/images/brick’);
-background-repeat: repeat;
-}
+        }   
 </style>
 <title> Me </title>
 </head>
@@ -21,7 +16,7 @@ This is Me
 <table>
     <tr>
         <th>
-          <img src="https://emog24.github.io/homepage1/images/flowers.png" width="300" height="300"
+          <img src="https://emog24.github.io/homepage1/images/me.jpg" width="300" height="300"
 <p>
   Hi, my name is Emili, yes with an "I".
 </p>
@@ -36,4 +31,4 @@ Artist
         </th>
     </tr>
 </table>
-</html>
+</html> 
