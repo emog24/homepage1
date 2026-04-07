@@ -39,11 +39,18 @@ Meet Benny!
           <img src="https://emog24.github.io/homepage1/images/buster.png" width="200" height="250">
         <th>
           <img src="https://emog24.github.io/homepage1/images/skypee.png" width="200" height="200">
-   <tr>
+    <tr>
         <th> 
           <img src="https://emog24.github.io/homepage1/images/music_notes.png" width="500" height="150">
         <th> 
           <img src="https://emog24.github.io/homepage1/images/music_notes.png" width="500" height="150">
+        </th>
+    </tr>
+    <tr>
+        <th>
+          <img src="https://emog24.github.io/homepage1/images/quote.png" width="350" height="350">
+        <th>
+          <img src="https://emog24.github.io/homepage1/images/quote_2.png" width="350" height="350">
         </th>
     </tr>
 </table>
