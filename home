@@ -16,9 +16,17 @@ This is Me
 <table>
     <tr>
         <th>
-          <img src="https://emog24.github.io/homepage1/images/me.jpg" width="300" height="300"
+          <img src="https://emog24.github.io/homepage1/images/paint.jpg" width="300" height="300"
 <p>
   Hi, my name is Emili, yes with an "I".
+</p>
+        </th>
+    </tr>
+    <tr>
+        <th>
+          <img src="https://emog24.github.io/homepage1/images/paint.jpg" width="300" height="300"
+<p>
+Artist
 </p>
         </th>
     </tr>
